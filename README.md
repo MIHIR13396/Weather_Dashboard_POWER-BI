@@ -198,7 +198,7 @@ RETURN
 
 ## 🔗 **Project Links**
 
-- **Live Power BI Dashboard:** https://app.powerbi.com/groups/me/reports/4f9003b0-b010-471e-99bc-ea9b432c312e?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare  
+- **Live Power BI Dashboard:**  https://app.powerbi.com/groups/me/reports/4f9003b0-b010-471e-99bc-ea9b432c312e?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare  
 
 ---
 
@@ -206,7 +206,7 @@ RETURN
 
 **Mihir Kumar** – Data & Visualization Enthusiast  
 
-Connect on [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+Connect on [LinkedIn](www.linkedin.com/in/mihir-singh-0974832a8)  
 
 ---
 
