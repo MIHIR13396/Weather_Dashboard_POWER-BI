@@ -206,7 +206,7 @@ RETURN
 
 **Mihir Kumar** – Data & Visualization Enthusiast  
 
-Connect on [LinkedIn](www.linkedin.com/in/mihir-singh-0974832a8)  
+Connect on [LinkedIn](https://www.linkedin.com/in/mihir-singh-0974832a8/)  
 
 ---
 
